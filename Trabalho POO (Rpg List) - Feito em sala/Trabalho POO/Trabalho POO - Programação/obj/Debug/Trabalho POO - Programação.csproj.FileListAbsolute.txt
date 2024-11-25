@@ -1,0 +1,27 @@
+C:\Users\Administrador\source\repos\Trabalho POO\Trabalho POO - Programação\bin\Debug\Trabalho POO - Programação.exe.config
+C:\Users\Administrador\source\repos\Trabalho POO\Trabalho POO - Programação\bin\Debug\Trabalho POO - Programação.exe
+C:\Users\Administrador\source\repos\Trabalho POO\Trabalho POO - Programação\bin\Debug\Trabalho POO - Programação.pdb
+C:\Users\Administrador\source\repos\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho_POO___Programação.Form1.resources
+C:\Users\Administrador\source\repos\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho_POO___Programação.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.exe
+C:\Users\Administrador\source\repos\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.pdb
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO para entrega - Programação Jogos Digitais\Trabalho POO (Rpg List)\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO para entrega - Programação Jogos Digitais\Trabalho POO (Rpg List)\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho_POO___Programação.Form1.resources
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO para entrega - Programação Jogos Digitais\Trabalho POO (Rpg List)\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho_POO___Programação.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO para entrega - Programação Jogos Digitais\Trabalho POO (Rpg List)\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO para entrega - Programação Jogos Digitais\Trabalho POO (Rpg List)\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO para entrega - Programação Jogos Digitais\Trabalho POO (Rpg List)\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.exe
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO para entrega - Programação Jogos Digitais\Trabalho POO (Rpg List)\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.pdb
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO (Rpg List) - Feito em sala\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO (Rpg List) - Feito em sala\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho_POO___Programação.Form1.resources
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO (Rpg List) - Feito em sala\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho_POO___Programação.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO (Rpg List) - Feito em sala\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO (Rpg List) - Feito em sala\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO (Rpg List) - Feito em sala\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.exe
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO (Rpg List) - Feito em sala\Trabalho POO\Trabalho POO - Programação\obj\Debug\Trabalho POO - Programação.pdb
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO (Rpg List) - Feito em sala\Trabalho POO\Trabalho POO - Programação\bin\Debug\Trabalho POO - Programação.exe.config
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO (Rpg List) - Feito em sala\Trabalho POO\Trabalho POO - Programação\bin\Debug\Trabalho POO - Programação.exe
+C:\Users\pc\OneDrive\Desktop\Visual Studio\Trabalho POO (Rpg List) - Feito em sala\Trabalho POO\Trabalho POO - Programação\bin\Debug\Trabalho POO - Programação.pdb
